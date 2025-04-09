@@ -35,7 +35,9 @@ npm run dev
 Access your app at:
 ➡️ http://localhost:3000
 
-🧱 Folder Structure
+
+
+## 🧱 Folder Structure
 bash
 Copy
 Edit
