@@ -100,3 +100,13 @@ This is not just a project — it's a **movement**.
 The clearer the architecture, the easier it is for others to join and contribute.
 
 Welcome to the mind palace of DirektYou.
+
+## 🧱 System Architecture
+
+![architecture](./architecture.png)
+
+This diagram represents how DirektYou's core systems interact:  
+- Frontend (React/Next.js) connects to Backend (Node.js/Express)  
+- Backend interfaces with MongoDB and ML Microservices  
+- FastAPI/Flask handles ML model APIs  
+- JWT Auth, CI/CD, and Discord ecosystem are also shown
