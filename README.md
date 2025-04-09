@@ -8,6 +8,8 @@
 ✅ Track goals and master skills  
 ✅ Build meaningful, purpose-driven lives
 
+JOIN OUR DISCORD SERVER: 
+https://discord.com/invite/5mNGwJPX
 ---
 
 ## 🚀 Tech Stack
